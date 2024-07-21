@@ -47,19 +47,25 @@ The analysis covers the following key areas:
 - CO2 Emissions by Sector: Charts illustrating the total CO2 emissions by sector, providing insights into which sectors are the most significant contributors to emissions.
 - Top 10 Countries by CO2 Emissions: Bar chart identifying the top 10 countries contributing the most to CO2 emissions.
 - CO2 Emissions Trends for Top 5 Emitting Countries: Line graph showing the trends in CO2 emissions over time for the top 5 emitting countries.
+  
   <img width="410" alt="image" src="https://github.com/user-attachments/assets/aae3f41c-87bc-4602-aa11-7956a8f1d460">
+
 
 **[Time-Series-Modeling-Retail-Sales](https://github.com/KalyanKPothineni/Time-Series-Modeling-Retail-Sales)**
 
 This project analyzes and predicts U.S. monthly retail sales from January 1992 to June 2021. Retail sales are a crucial economic indicator, providing insights into consumer spending patterns and overall economic health.
+
 <img width="431" alt="image" src="https://github.com/user-attachments/assets/f11fd516-fd70-4fa5-a2ba-10ad54d9c21e">
+
 
 **[Analysis of Powerball Winning Numbers](https://github.com/KalyanKPothineni/Analysis-of-Powerball-Winning-Numbers)**
 
 The analysis covers the following key areas:
 - Analyze historical Powerball numbers to identify patterns and trends.
 - Provide insights into the randomness of lottery draws.
+  
   <img width="395" alt="image" src="https://github.com/user-attachments/assets/156edd30-7883-4f47-bc3a-08841cd84e2b">
+
 
 **[World Population Trend Analysis](https://github.com/KalyanKPothineni/World-Population-Trends)**
 
