@@ -29,8 +29,6 @@ Certifications:
 
 
 # Featured Project:
-## (CO2 Emissions by Sector Analysis)(https://github.com/KalyanKPothineni/CO2-Emissions-By-Sector-Analysis)
-[CO2-Emissions-By-Sector-Analysis](https://github.com/KalyanKPothineni/CO2-Emissions-By-Sector-Analysis)
+**1. [CO2-Emissions-By-Sector-Analysis](https://github.com/KalyanKPothineni/CO2-Emissions-By-Sector-Analysis)**
 
-## World Population Trend Analysis
-_https://github.com/KalyanKPothineni/World-Population-Trends_
+**2. [World Population Trend Analysis](https://github.com/KalyanKPothineni/World-Population-Trends)**
