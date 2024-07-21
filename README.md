@@ -31,7 +31,7 @@ Experienced Data Architect specializing in Data Engineering, Data Management, An
 - **4X Snowflake Certified**
 - **8X Microsoft Fabric Certified**
 - **Certified Data Analyst from eCornell**
-- **AWS Certified**
+- **AWS Solution Architect - Associates Certified**
 - **Scrum Master Certified**
 
 ## Languages/Tools: AWS, Snowflake, SQL, Python, R, Tableau
