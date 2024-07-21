@@ -23,7 +23,7 @@ Experienced Data Architect specializing in Data Engineering, Data Science, Analy
 - **Master of Engineering, Industrial**
   - Lamar University (_2007 - 2008_)
 - **Bachelor of Engineering, Mechanical**
-  - JNTU
+  - JNT University
     
 ![mark-twain-data-quote](https://github.com/user-attachments/assets/25d74d3a-ce50-49d5-ab2d-3dfeed392423)
 
