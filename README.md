@@ -1,6 +1,7 @@
 # Kalyan Pothineni
 
-![welcome](https://github.com/KalyanKPothineni/KalyanKPothineni/assets/174274413/82186a4e-8528-41af-ae8d-793b77713ab5)
+![images](https://github.com/user-attachments/assets/0803a7f9-a371-4db8-ae9b-22543eb6b904)
+
 
 # 👋 Hi, I’m Kalyan Pothineni  
 
