@@ -1,8 +1,5 @@
-# Kalyan Pothineni (Ta-Da! Data)
-
-![images](https://github.com/user-attachments/assets/0803a7f9-a371-4db8-ae9b-22543eb6b904)
-
-# 👋 Hi, I’m Kalyan Pothineni  
+# 👋 Hi, I’m Kalyan Pothineni  (Ta-Da! Data)
+![mark-twain-data-quote](https://github.com/user-attachments/assets/25d74d3a-ce50-49d5-ab2d-3dfeed392423)
 
 - ☕ I'm coffeer.
 - 🌱 Mastering Data Science
@@ -12,21 +9,35 @@
   
 Experienced Data Architect specializing in Data Engineering, Data Science, Analytics, and Analysis, with a proven track record in Financial, Retail, Healthcare, and Logistics domains. Proficient in Snowflake, AWS, DBT, Microsoft Fabric, Performance Tuning, Cloud Concepts, Data Warehouse Architecture, Oracle, GIT, SLDC, Visualization and Modeling.
 
-Certifications:
-- 4X Snowflake Certified
-- 8X Microsoft Fabric Certified
-- Certified Data Analyst from eCornell
-- AWS Certified
-- Scrum Master Certified
-- I will complete a Master's in Data Science in August 2024 and hold a Master's in Mechanical Engineering
+## Contact
+- **Email: iamkalyankish@gmail.com**
+- **Location: Houston, TX**
 
-## Major Accomplishments:
-- Circle of Excellence Award- 2022 (WM)
-
-### *Let's innovate together!*
+## Education
+- **Master of Science, Data Science**
+  - Bellevue University (_2022 - 2024_)
+- **Master of Engineering Sciences, Mechanical**
+  - Lamar University (_2008 - 2010_)
+- **Master of Engineering, Industrial**
+  - Lamar University (_2007 - 2008_)
+- **Bachelor of Engineering, Mechanical**
+  - JNTU
 
 ![images](https://github.com/user-attachments/assets/10d20953-06b8-47e1-887e-dc7655cff54c)
 
+## Certifications:
+- **4X Snowflake Certified**
+- **8X Microsoft Fabric Certified**
+- **Certified Data Analyst from eCornell**
+- **AWS Certified**
+- **Scrum Master Certified**
+- **I will complete a Master's in Data Science in August 2024 and hold a Master's in Mechanical Engineering and Industrial Engineering**
+
+## Major Accomplishments:
+- **Circle of Excellence Award- 2022 (WM)**
+
+### *Let's innovate together!*
+![images](https://github.com/user-attachments/assets/0803a7f9-a371-4db8-ae9b-22543eb6b904)
 
 # Featured Project:
 **1. [CO2-Emissions-By-Sector-Analysis](https://github.com/KalyanKPothineni/CO2-Emissions-By-Sector-Analysis)**
