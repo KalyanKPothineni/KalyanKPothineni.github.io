@@ -38,7 +38,7 @@ Experienced Data Architect specializing in Data Engineering, Data Science, Analy
 Analytics: 
 
 ### *Let's innovate together!*
-![images](https://github.com/user-attachments/assets/0803a7f9-a371-4db8-ae9b-22543eb6b904)
+[![images](https://github.com/user-attachments/assets/0803a7f9-a371-4db8-ae9b-22543eb6b904)](https://images.app.goo.gl/UvEEyecK4qVnrsGJ8)
 
 # Featured Project:
 **[CO2-Emissions-By-Sector-Analysis](https://github.com/KalyanKPothineni/CO2-Emissions-By-Sector-Analysis)**
