@@ -2,7 +2,7 @@
 
 ![images](https://github.com/user-attachments/assets/0803a7f9-a371-4db8-ae9b-22543eb6b904)
 
-![download](https://github.com/user-attachments/assets/a2490bfa-0de3-4fb4-b482-cd8d4580c283)
+![images](https://github.com/user-attachments/assets/10d20953-06b8-47e1-887e-dc7655cff54c)
 
 
 # 👋 Hi, I’m Kalyan Pothineni  
