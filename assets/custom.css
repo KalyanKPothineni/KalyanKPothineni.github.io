@@ -1,0 +1,12 @@
+
+body {
+    background-color: #F5F5DC; /* Beige background */
+}
+
+.header {
+    background-color: #333333; /* Dark grey background for header */
+}
+
+.footer {
+    background-color: #222222; /* Even darker grey for footer */
+}

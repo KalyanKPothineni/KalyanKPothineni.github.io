@@ -8,3 +8,11 @@ description:
   <br><br>
   </p>
 theme: jekyll-theme-minimal
+custom_css: /assets/custom.css
+
+description:
+  <p align="center">
+#  <a href="assets/documents/Kalyan_Pothineni.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/kalyanpothineni//">LinkedIn</a> |
+  <a href="https://github.com/KalyanKPothineni">GitHub</a>
+  </p>  
