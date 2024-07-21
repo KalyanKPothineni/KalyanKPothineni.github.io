@@ -6,8 +6,9 @@ Experienced Data Architect specializing in Data Engineering, Data Science, Analy
 - 🐶 Dog Parent
 - 🚗 Race track is my zen
 - 🎥 Movie Lover
-  
-![mark-twain-data-quote](https://github.com/user-attachments/assets/25d74d3a-ce50-49d5-ab2d-3dfeed392423)
+
+## Major Accomplishments:
+- **Circle of Excellence Award- 2022 (WM)**
 
 ## Contact
 - **Email: iamkalyankish@gmail.com**
@@ -22,8 +23,8 @@ Experienced Data Architect specializing in Data Engineering, Data Science, Analy
   - Lamar University (_2007 - 2008_)
 - **Bachelor of Engineering, Mechanical**
   - JNTU
-
-![images](https://github.com/user-attachments/assets/10d20953-06b8-47e1-887e-dc7655cff54c)
+    
+![mark-twain-data-quote](https://github.com/user-attachments/assets/25d74d3a-ce50-49d5-ab2d-3dfeed392423)
 
 ## Certifications:
 - **4X Snowflake Certified**
@@ -31,10 +32,8 @@ Experienced Data Architect specializing in Data Engineering, Data Science, Analy
 - **Certified Data Analyst from eCornell**
 - **AWS Certified**
 - **Scrum Master Certified**
-- **I will complete a Master's in Data Science in August 2024 and hold a Master's in Mechanical Engineering and Industrial Engineering**
 
-## Major Accomplishments:
-- **Circle of Excellence Award- 2022 (WM)**
+
 
 ### *Let's innovate together!*
 ![images](https://github.com/user-attachments/assets/0803a7f9-a371-4db8-ae9b-22543eb6b904)
