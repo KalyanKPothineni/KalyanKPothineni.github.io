@@ -48,7 +48,6 @@ The analysis covers the following key areas:
 - CO2 Emissions Trends for Top 5 Emitting Countries: Line graph showing the trends in CO2 emissions over time for the top 5 emitting countries.
   <img width="410" alt="image" src="https://github.com/user-attachments/assets/aae3f41c-87bc-4602-aa11-7956a8f1d460">
 
-
 **2. [World Population Trend Analysis](https://github.com/KalyanKPothineni/World-Population-Trends)**
 The analysis covers the following key areas:
 - Historical Population Trends: Analysis of global population growth from ancient times to the present.
@@ -57,6 +56,11 @@ The analysis covers the following key areas:
 - Future Projections: Insights into projected population growth and potential challenges.
 
 **3. [Analysis of Powerball Winning Numbers](https://github.com/KalyanKPothineni/Analysis-of-Powerball-Winning-Numbers)**
+The analysis covers the following key areas:
+- Analyze historical Powerball numbers to identify patterns and trends.
+- Provide insights into the randomness of lottery draws.
+  <img width="395" alt="image" src="https://github.com/user-attachments/assets/156edd30-7883-4f47-bc3a-08841cd84e2b">
+
 
 **4. [MLB Attendance Prediction](https://github.com/KalyanKPothineni/MLB-Attendance-Predictions)**
 
