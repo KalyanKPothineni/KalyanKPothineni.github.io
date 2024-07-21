@@ -20,6 +20,8 @@ Experienced Data Architect specializing in Data Engineering, Data Science, Analy
   - Bellevue University (_2022 - 2024_)
 - **Master of Engineering Sciences, Mechanical**
   - Lamar University (_2008 - 2010_)
+- **Master of Engineering, Industrial**
+  - Lamar University (_2007 - 2008_)
 - **Bachelor of Engineering, Mechanical**
   - JNTU
     
