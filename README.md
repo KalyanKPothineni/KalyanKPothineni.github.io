@@ -57,11 +57,17 @@ The analysis covers the following key areas:
 **3. [Analysis of Powerball Wimming Numbers](https://github.com/KalyanKPothineni/Analysis-of-Powerball-Winning-Numbers)**
 
 **4. [MLB Attendance Prediction](https://github.com/KalyanKPothineni/MLB-Attendance-Predictions)**
+
 **5. [Open Weather Map](https://github.com/KalyanKPothineni/Open-Weather-Map)**
+
 **6. [Personal Cash Register](https://github.com/KalyanKPothineni/Personal-Cash-Register)**
+
 **7. [Visual Exploration of Birthrates](https://github.com/KalyanKPothineni/Visual-Exploration-of-Birthrate)**
+
 **8. [Time-Series-Modeling-Retail-Sales](https://github.com/KalyanKPothineni/Time-Series-Modeling-Retail-Sales)**
+
 **9. [Electric and Alternative Fual Charging Stations](https://github.com/KalyanKPothineni/Electric-and-Alternative-Fual-Charging-Stations)**
+
 **10. [ALS Research Clustering](https://github.com/KalyanKPothineni/ALS-Research-Clustering)**
 
 ![download](https://github.com/user-attachments/assets/a4e389da-d16d-48ad-a301-1bec517fd74a)
