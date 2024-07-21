@@ -48,7 +48,7 @@ The analysis covers the following key areas:
 - Top 10 Countries by CO2 Emissions: Bar chart identifying the top 10 countries contributing the most to CO2 emissions.
 - CO2 Emissions Trends for Top 5 Emitting Countries: Line graph showing the trends in CO2 emissions over time for the top 5 emitting countries.
   
-  <img width="410" alt="image" src="https://github.com/user-attachments/assets/aae3f41c-87bc-4602-aa11-7956a8f1d460">
+<img width="410" alt="image" src="https://github.com/user-attachments/assets/aae3f41c-87bc-4602-aa11-7956a8f1d460">
 
 
 **[Time-Series-Modeling-Retail-Sales](https://github.com/KalyanKPothineni/Time-Series-Modeling-Retail-Sales)**
@@ -64,7 +64,7 @@ The analysis covers the following key areas:
 - Analyze historical Powerball numbers to identify patterns and trends.
 - Provide insights into the randomness of lottery draws.
   
-  <img width="395" alt="image" src="https://github.com/user-attachments/assets/156edd30-7883-4f47-bc3a-08841cd84e2b">
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/156edd30-7883-4f47-bc3a-08841cd84e2b">
 
 
 **[World Population Trend Analysis](https://github.com/KalyanKPothineni/World-Population-Trends)**
