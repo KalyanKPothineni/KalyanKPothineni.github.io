@@ -1,0 +1,113 @@
+html {
+  font-size: 18px;
+}
+
+body {
+  background-color: white;
+}
+
+h1 {
+  font-size: 1.6em;
+}
+
+h1, h2, h3 {
+  color: #494E52;
+  font-weight: Bold;
+  margin-bottom: 0;
+}
+p, li, a, article {
+  color: #494E52;
+}
+
+.myimage {
+  max-width: 120px;
+  border-radius: 50%;
+  border: 1px solid #494E52;;
+  padding: 5px;
+}
+
+#main {
+  max-width: 925px;
+  margin-left: auto;
+  margin-right: auto;
+  clear: both:
+  margin-top: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
+  
+}
+
+nav ul {
+  margin-left: 23%;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+nav {
+  max-width: 925px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav ul li {
+  display: inline-block;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #494E52; /* Default color for the links */
+  position: relative; /* Ensure proper positioning of the pseudo-element */
+}
+
+ul li a::after {
+  content: '';
+  display: block;
+  position: absolute;
+  bottom: -2px; /* Adjust the distance of the underscore from the text */
+  left: 0;
+  width: 100%;
+  height: 2px; /* Thickness of the underscore */
+  background-color: transparent; /* Initially transparent */
+  transition: background-color 0.3s; /* Smooth transition for color change */
+}
+
+ul li a:hover::after {
+  background-color: #333; /* Color of the underscore on hover */
+}
+
+#sidebar {
+  width:20%;
+  float:left;
+  margin-right:2%;
+  position: fixed;
+  top: 4em;
+}
+
+#sidebar ul {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+ul li a {
+  text-decoration: none;
+}
+
+article {
+  float: right;
+  width: 75%;
+}
+
+#sidebar ul li {
+  margin-bottom: 10px; /* Adjust spacing between list items */
+  font-color: #494E52;
+}
+
+#sidebar ul li i {
+  margin-right: 5px; /* Adjust spacing between icon and text */
+}
+
+ul li ul li:last-of-type {
+  margin-bottom: 20px;
+}
