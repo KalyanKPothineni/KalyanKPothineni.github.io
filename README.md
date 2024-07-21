@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Kalyan Pothineni  (Ta-Da! Data)
-![mark-twain-data-quote](https://github.com/user-attachments/assets/25d74d3a-ce50-49d5-ab2d-3dfeed392423)
+Experienced Data Architect specializing in Data Engineering, Data Science, Analytics, and Analysis, with a proven track record in Financial, Retail, Healthcare, and Logistics domains. Proficient in Snowflake, AWS, DBT, Microsoft Fabric, Performance Tuning, Cloud Concepts, Data Warehouse Architecture, Oracle, GIT, SLDC, Visualization and Modeling.
 
 - ☕ I'm coffeer.
 - 🌱 Mastering Data Science
@@ -7,7 +7,7 @@
 - 🚗 Race track is my zen
 - 🎥 Movie Lover
   
-Experienced Data Architect specializing in Data Engineering, Data Science, Analytics, and Analysis, with a proven track record in Financial, Retail, Healthcare, and Logistics domains. Proficient in Snowflake, AWS, DBT, Microsoft Fabric, Performance Tuning, Cloud Concepts, Data Warehouse Architecture, Oracle, GIT, SLDC, Visualization and Modeling.
+![mark-twain-data-quote](https://github.com/user-attachments/assets/25d74d3a-ce50-49d5-ab2d-3dfeed392423)
 
 ## Contact
 - **Email: iamkalyankish@gmail.com**
