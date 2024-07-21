@@ -1,14 +1,10 @@
-title: Kalyan Pothineni
-logo: Docs/img//KalyanPothineni_1.jpg
+ctitle: Kalyan Pothineni
+logo: /docs/img/KalyanPothineni.png
 description:
   <p align="left">
-  Principal Data Architect (& Data Science Graduate Student)
+  Data Science Graduate Student
   <br><br>
-  <em>Seasoned Data Architect with expertise in Data Engineering, Data Management, Data Visualization, and Data Analytics. Mastering Snowflake, AWS, and more</em>
+  <em>Seasoned Data Architect with expertise in Data Engineering, Data Management, Data Visualization, and Data Analytics. Mastering Snowflake, AWS, and more.</em>
   <br><br>
-  <p align="center">
-#  <a href="assets/documents/Kalyan_Pothineni.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/kalyanpothineni//">LinkedIn</a> |
-  <a href="https://github.com/KalyanKPothineni">GitHub</a>
-  </p>  
+  </p>
 theme: jekyll-theme-minimal
