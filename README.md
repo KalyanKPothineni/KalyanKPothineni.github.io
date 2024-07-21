@@ -54,7 +54,7 @@ The analysis covers the following key areas:
 - Regional Variations: Comparison of population trends across different regions and countries.
 - Future Projections: Insights into projected population growth and potential challenges.
 
-**3. [Analysis of Powerball Wimming Numbers](https://github.com/KalyanKPothineni/Analysis-of-Powerball-Winning-Numbers)**
+**3. [Analysis of Powerball Winning Numbers](https://github.com/KalyanKPothineni/Analysis-of-Powerball-Winning-Numbers)**
 
 **4. [MLB Attendance Prediction](https://github.com/KalyanKPothineni/MLB-Attendance-Predictions)**
 
