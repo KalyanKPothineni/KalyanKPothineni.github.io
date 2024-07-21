@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kalyan Pothineni  
 ## Ta-Da! Data
-Experienced Data Architect specializing in Data Engineering, Data Science, Analytics, and Analysis, with a proven track record in Financial, Retail, Healthcare, and Logistics domains. Proficient in Snowflake, AWS, DBT, Microsoft Fabric, Performance Tuning, Cloud Concepts, Data Warehouse Architecture, Oracle, GIT, SLDC, Visualization and Modeling, Supervised Machine Learning Algorithms, Unsupervised Machine Learning Algorithms, Exploratory Data Analysis, Scikit-Learn, Numpy, Pandas
+Experienced Data Architect specializing in Data Engineering, Data Management, Analytics, and Analysis, with a proven track record in Financial, Retail, Healthcare, and Logistics domains. Proficient in Snowflake, AWS, DBT, Microsoft Fabric, Performance Tuning, Cloud Concepts, Data Warehouse Architecture, Oracle, GIT, SLDC, Visualization and Modeling, Supervised Machine Learning Algorithms, Unsupervised Machine Learning Algorithms, Exploratory Data Analysis, Scikit-Learn, Numpy, Pandas
 
 - ☕ I'm coffeer.
 - 🌱 Mastering Data Science
