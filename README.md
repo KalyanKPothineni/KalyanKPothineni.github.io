@@ -20,16 +20,15 @@ Certifications:
 - Scrum Master Certified
 - I will complete a Master's in Data Science in August 2024 and hold a Master's in Mechanical Engineering
 
-Major Accomplishments:
+## Major Accomplishments:
 - Circle of Excellence Award- 2022 (WM)
 
-![images](https://github.com/user-attachments/assets/10d20953-06b8-47e1-887e-dc7655cff54c)
-
 Let's innovate together!
+![images](https://github.com/user-attachments/assets/10d20953-06b8-47e1-887e-dc7655cff54c)
 
 # Featured Project:
 ## CO2 Emissions by Sector Analysis
-_https://github.com/KalyanKPothineni/CO2-Emissions-By-Sector-Analysis_
+[CO2-Emissions-By-Sector-Analysis] (https://github.com/KalyanKPothineni/CO2-Emissions-By-Sector-Analysis)
 
 ## World Population Trend Analysis
 _https://github.com/KalyanKPothineni/World-Population-Trends_
