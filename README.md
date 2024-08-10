@@ -32,7 +32,7 @@ Experienced Data Architect specializing in Data Engineering, Data Management, An
 - **AWS Solution Architect - Associates Certified**
 - **Scrum Master Certified**
 
-## Languages/Tools: AWS, Snowflake, SQL, Python, R, Tableau
+## Languages/Tools: AWS, Snowflake, SQL, Python, R, Microsoft Fabric, PBI, Tableau
 Analytics: 
 
 ### *Let's innovate together!*
