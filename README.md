@@ -156,5 +156,15 @@ The analysis covers the following key areas:
 
 **[ALS Research Clustering](https://github.com/KalyanKPothineni/ALS-Research-Clustering)**
 
+The analysis covers the following key areas:
+
+- Data Cleaning and Preparation: Focus on clinical and demographic variables relevant to ALS.
+- Data Standardization: Ensuring uniform feature contribution using StandardScaler.
+- Optimal Cluster Identification: Utilizing K-Means clustering and silhouette scores.
+- Dimensionality Reduction: Applying PCA for visualization of cluster separations.
+- Interpretation of Results: Identifying potential ALS subtypes or progression patterns.
+
+<img width="343" alt="image" src="https://github.com/user-attachments/assets/8798ecf9-03ab-435d-8d05-716c151478c2">
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![download](https://github.com/user-attachments/assets/a4e389da-d16d-48ad-a301-1bec517fd74a)
