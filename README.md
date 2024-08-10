@@ -111,17 +111,44 @@ The analysis covers the following key areas:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**[Visual Exploration of Birthrates](https://github.com/KalyanKPothineni/Visual-Exploration-of-Birthrate)**
+
+The analysis covers the following key areas:
+
+- Trend Analysis: Visualizing birthrate trends over time across different regions.
+- Regional Comparisons: Comparing birthrates between various regions.
+- Demographic Insights: Examining birthrate patterns related to demographic factors.
+- Data Sources: Utilizing public datasets from reliable sources.
+
+<img width="418" alt="image" src="https://github.com/user-attachments/assets/a90f2bc8-667a-4de4-9d9a-9ea3aa0ceb6e">
+<img width="134" alt="image" src="https://github.com/user-attachments/assets/ea86d7dc-e01b-4143-bab7-ea25f5767ff9">
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **[Open Weather Map](https://github.com/KalyanKPothineni/Open-Weather-Map)**
+
+The analysis covers the following key areas:
+
+- Current Weather Information: Displays current temperature, weather conditions, humidity, and more for the specified location.
+- Extended Forecast: A 36-hour forecast with temperature and weather conditions.
+- Temperature Conversion: Converts temperature from Kelvin to Fahrenheit and Celsius.
+- Error Handling: Includes robust error handling for invalid inputs, API connection issues, and other potential errors.
+
+<img width="463" alt="image" src="https://github.com/user-attachments/assets/60ffe2fd-c303-4f6d-a8bf-1bffb1a24d9f">
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **[Personal Cash Register](https://github.com/KalyanKPothineni/Personal-Cash-Register)**
 
+The analysis covers the following key areas:
+
+- Add Items: Users can continuously add item prices to the registry until they quit.
+- Total Calculation: The program calculates and displays the total number of items and costs in a formatted currency display.
+- Error Handling: The program includes fundamental error handling for invalid price inputs.
+
+<img width="542" alt="image" src="https://github.com/user-attachments/assets/5c12b5b3-b59f-4fb0-9a8c-82c895573a1b">
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[Visual Exploration of Birthrates](https://github.com/KalyanKPothineni/Visual-Exploration-of-Birthrate)**
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **[Electric and Alternative Fual Charging Stations](https://github.com/KalyanKPothineni/Electric-and-Alternative-Fual-Charging-Stations)**
 
