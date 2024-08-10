@@ -149,8 +149,17 @@ The analysis covers the following key areas:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 **[Electric and Alternative Fual Charging Stations](https://github.com/KalyanKPothineni/Electric-and-Alternative-Fual-Charging-Stations)**
+
+The analysis covers the following key areas:
+
+- Data Cleaning and Preparation: Focus on relevant features such as fuel type, geographical location, and facility types.
+- Data Standardization: Ensuring uniform feature contribution using StandardScaler.
+- Optimal Cluster Identification: Utilizing K-Means clustering to identify distinct geographical patterns.
+- Predictive Modeling: Building and evaluating a Linear Regression model to predict the number of EVSEs at charging stations.
+- Interpretation of Results: Providing actionable insights for urban planners, charging station operators, and government authorities.
+
+<img width="357" alt="image" src="https://github.com/user-attachments/assets/7eae6af0-c009-4b43-b0a2-08abc75e5949">
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
