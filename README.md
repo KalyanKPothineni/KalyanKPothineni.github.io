@@ -67,6 +67,19 @@ The analysis covers the following key areas:
 <img width="395" alt="image" src="https://github.com/user-attachments/assets/156edd30-7883-4f47-bc3a-08841cd84e2b">
 
 
+**[Analysis of Food Consumption Patterns and Nutritional Intake]([https://github.com/KalyanKPothineni/Analysis-of-Powerball-Winning-Numbers](https://github.com/KalyanKPothineni/Analysis-Of-Food-Consumption-Patterns-and-Nutritional-Intake))**
+
+The analysis covers the following key areas:
+- Nutritional Composition Analysis: Detailed examination of the nutritional content across various food items, including caloric value, fats, carbohydrates, proteins, vitamins, and minerals.
+- Demographic Insights: Analysis of food consumption patterns linked to demographic factors such as age, gender, and socioeconomic status (pending review of related datasets).
+- Historical Trends: Exploration of historical trends in food consumption to identify changes over time and potential seasonal variations.
+- Regional and Seasonal Variations: Investigation of geographical and seasonal differences in food consumption (pending review of related datasets).
+- Data Integration and Consistency: Consolidating data from multiple sources to ensure accuracy and completeness in the analysis.
+- Predictive Modeling: Use advanced modeling techniques to predict potential health impacts based on current and historical food consumption patterns.
+
+<img width="374" alt="Timeseries 2024-08-10 103556" src="https://github.com/user-attachments/assets/2ac82bf6-2ff6-4e5d-81a4-17998f00e51f">
+
+
 **[World Population Trend Analysis](https://github.com/KalyanKPothineni/World-Population-Trends)**
 
 The analysis covers the following key areas:
@@ -76,6 +89,16 @@ The analysis covers the following key areas:
 - Future Projections: Insights into projected population growth and potential challenges.
 
 **[MLB Attendance Prediction](https://github.com/KalyanKPothineni/MLB-Attendance-Predictions)**
+
+The analysis covers the following key areas:
+
+- Impact of weather conditions and promotions on attendance.
+- Influence of game timing and day of the week on attendance.
+- Attendance variations based on opponent teams.
+- Statistical analysis to identify significant attendance factors.
+
+<img width="349" alt="image" src="https://github.com/user-attachments/assets/bd668c9b-e46e-4d11-8a9e-2a26ee169791">
+
 
 **[Open Weather Map](https://github.com/KalyanKPothineni/Open-Weather-Map)**
 
